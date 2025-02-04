@@ -1,4 +1,4 @@
-# TriviaApp
+# TestAppPHP
 
 ## Instalación con Git
 ```
